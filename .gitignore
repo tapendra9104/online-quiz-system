@@ -1,0 +1,9 @@
+﻿node_modules/
+**/node_modules/
+.env
+**/.env
+backend/.env
+.playwright-cli/
+coverage/
+npm-debug.log*
+*.log
